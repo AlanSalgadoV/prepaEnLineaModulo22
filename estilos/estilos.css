@@ -1,0 +1,35 @@
+body{
+    background: rosybrown;
+    color: aliceblue;
+    font-family: 'Lato', sans-serif;
+}
+
+.hacer{
+ color: black;
+ font-family: 'Montserrat', sans-serif;
+
+}
+
+h1{
+    position: relative;
+    left: 45%;
+}
+
+
+a:link, a:visited {
+    background-color: green;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: greenyellow;
+  }
+
+  a{
+      position: absolute;
+      left: 45%;
+  }
